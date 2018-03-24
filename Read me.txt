@@ -1,0 +1,6 @@
+Absalat Dawit
+ATR/8266/08
+
+
+MVCPattern Console App - using MVC Architecture
+Dictionary Search App - using Client/Server Architecture
